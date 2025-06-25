@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- App Name & Description -->
+    <string name="app_name">InventoryManager</string>
+    <string name="app_name_login">Inventory App</string>
+    <string name="app_description">An app to manage inventory and send SMS alerts for low stock.</string>
+
+    <!-- Login Screen -->
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_log_in">Log In</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="desc_app_logo">Inventory App Logo</string>
+
+    <!-- Dashboard / Inventory Screen -->
+    <string name="hint_new_item">New Item</string>
+    <string name="btn_add_label">Add</string>
+    <string name="label_item_name">Item Name</string>
+    <string name="desc_decrease_quantity">Decrease quantity</string>
+    <string name="default_quantity">0</string>
+    <string name="desc_increase_quantity">Increase quantity</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_sms_settings">SMS Settings</string>
+
+    <!-- SMS Permission Screen -->
+    <string name="sms_permission_explanation">This app needs permission to send SMS notifications for low inventory alerts.</string>
+    <string name="request_sms_permission">Request SMS Permission</string>
+    <string name="sms_permission_status_placeholder">Permission status will appear here</string>
+    <string name="sms_permission_granted">SMS permission granted.</string>
+    <string name="sms_permission_denied">SMS permission denied.</string>
+    <string name="sms_permission_not_granted">SMS permission not granted.</string>
+    <string name="sms_permission_already_granted">Permission already granted</string>
+    <string name="send_test_sms">Send Test SMS</string>
+    <string name="btn_back_to_dashboard">Back to Dashboard</string>
+
+</resources>
