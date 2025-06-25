@@ -1,5 +1,5 @@
 # 📦 InventoryManager – Android App
-**CS 360 – Mobile Architecture and Programming**
+**CS 360 – Mobile Architecture and Programming**  
 **👤 Created by:** Alex Leet
 
 ![Repo Size](https://img.shields.io/github/repo-size/AlexLeetDev/InventoryApp-Android?style=flat-square)
